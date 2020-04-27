@@ -1,2 +1,11 @@
-# metric-in-python
-metric calculation and description
+# METRIC-in-python
+Metric calculation and description
+
+
+
+
+
+
+
+## Reference
+https://github.com/zszyellow/WER-in-python
